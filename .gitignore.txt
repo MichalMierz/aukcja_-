@@ -1,0 +1,2 @@
+public_html/bootstrap/*
+public_html/font/*
